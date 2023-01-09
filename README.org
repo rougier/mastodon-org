@@ -1,0 +1,38 @@
+
+* Mastodon-org
+
+Mastodon-org setups a new org link type "mastodon" that can be used
+for quick access to mastodon buffers. This can be used to make a
+dashboard as shown by files [[mastodon-ascii.org]] (ascii)
+[[mastodon-nerd.org]] (needs nerd font). See [[mastodon-dashboard.el]] for an implemtation using a side frame.
+
+* Syntax:
+
+ - mastodon:home          :: Load Home timelime
+ - mastodon:local         :: Load Local timelime
+ - mastodon:federated     :: Load Federated timelime
+ - mastodon:profile       :: Load Profile
+ - mastodon:suggestions   :: Load Suggestions
+ - mastodon:search        :: Search for...
+
+ - mastodon:notifications :: Show Notifications
+ - mastodon:favourites    :: Show Favourited
+ - mastodon:bookmarks     :: Show Bookmarked
+ - mastodon:filters       :: Show Filters
+
+ - mastodon:toot-reply     :: Reply to toot
+ - mastodon:toot-thread    :: Show toot thread
+ - mastodon:toot-boost     :: Boost toot
+ - mastodon:toot-bookmark  :: Add toot to bookmark
+ - mastodon:toot-favourite :: Add toot to favourite
+ - mastodon:toot-pin       :: Pin toot
+ - mastodon:toot-vote      :: Vote
+ - mastodon:toot-spoiler   :: Toggle spoiler
+ - mastodon:toot-delete    :: Delete toot
+
+ - mastodon:user-profile   :: Show user profile
+ - mastodon:user-follow    :: Follow user
+ - mastodon:user-mute      :: Mute user
+ - mastodon:user-block     :: Block user
+
+ - mastodon:#xxx           :: Show tag "xxx" timeline

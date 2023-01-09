@@ -1,0 +1,34 @@
+
+*Discover*
+
+  [[mastodon:home][[H] Home]]
+  [[mastodon:profile][[O] Profile]] 
+  [[mastodon:local][[L] Local timeline]]
+  [[mastodon:federated][[F] Federated timeline]]
+  [[mastodon:search][[S] Search]]
+
+*Personal*
+
+  [[mastodon:filters][[I] Filters]]
+  [[mastodon:bookmarks][[K] Bookmarks]]
+  [[mastodon:favourites][[V] Favourites]]
+  [[mastodon:notifications][[N] Notifications]]
+  [[mastodon:suggestions][[G] Suggestions]]
+
+*Toot*
+
+  [[mastodon:toot-reply][[t] Compose]]    [[mastodon:toot-thread][[T] Thread]] 
+  [[mastodon:toot-reply][[r] Reply]]      [[mastodon:toot-spoiler][[c] Spoiler]] 
+  [[mastodon:toot-boost][[b] Boost]]      [[mastodon:toot-vote][[v] Vote]]
+  [[mastodon:toot-favourite][[f] Favourite]]  [[mastodon:toot-pin][[i] Pin]] 
+  [[mastodon:toot-bookmark][[k] Bookmark]]   [[mastodon:toot-spoiler][[d] Delete]] 
+
+*User*
+
+  [[mastodon:user-profile][[P] Profile]]    [[mastodon:user-follow][[W] Follow]]
+  [[mastodon:user-mute][[M] Mute]]       [[mastodon:user-block][[B] Block]]
+    
+*Explore*
+
+  [[mastodon:#mastodonel][#mastodon]] • [[mastodon:#emacs][#emacs]] • [[mastodon:#gnu][#gnu]]
+  [[mastodon:#elisp][#lisp]] • [[mastodon:#free][#free]] • [[mastodon:#software][#software]]
